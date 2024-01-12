@@ -2,11 +2,11 @@
 
 **About Me**
 
-I am an embedded software engineer working as a Characterization Engineer at Semtech Corporation with a proven track record of success in the semiconductor industry. This repository showcases my personal projects and contributions in the field of embedded systems development. I am passionate about developing firmware and software solutions for microcontrollers and embedded systems. With a strong background in embedded C/C++, debugging, performing testing, and designing efficient and reliable software for various microcontroller platforms. 
+I am a Staff Characterization Engineer at Semtech Corporation focused on embedded software with a proven track record of success in the semiconductor industry. This repository showcases my projects and contributions in the field of embedded systems development. I am passionate about developing firmware and software solutions for microcontrollers and embedded systems. With a strong background in embedded C/C++, debugging, performing testing, and designing efficient and reliable software for various microcontroller platforms. 
 
 **Personal Projects**
 
-[Embedded Software Development Courses](https://github.com/JoseLuis-Figueroa/Courses): This repository contains a collection of professional courses I have completed as an embedded software engineer. It served as a valuable resource for learning about embedded systems, firmware development, and programming languages.
+[Embedded Software Development Courses](https://github.com/JoseLuis-Figueroa/Courses): This repository contains a collection of professional courses related to embedded systems, firmware development, and programming languages.
 
 [Reusable Firmware Development](https://github.com/JoseLuis-Figueroa/Reusable-Drivers): This repository showcases a personal project focused on creating reusable firmware solutions. It includes drivers and hardware abstraction layers (HALs) for microcontrollers, following industry-standard coding practices such as MISRA-C. The project aims to provide efficient and scalable firmware components that can be integrated into various microcontrollers.
 
