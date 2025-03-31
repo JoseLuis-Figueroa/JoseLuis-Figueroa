@@ -14,17 +14,51 @@ Beyond firmware development, I have experience in **hardware review**, including
 
 ## Personal Projects  
 
-[**UART-DMA Driver**](https://github.com/JoseLuis-Figueroa/UART-DMA-Driver)
-
-This project demonstrates efficient **UART communication using DMA** (Direct Memory Access) on the **STM32 Nucleo-F401RE**. The system is designed to transfer data between the **UART peripheral** and the **transmitter/receiver buffers** in memory while bypassing the CPU for data handling, improving performance and efficiency. The **DMA** is configured to transfer data with minimal CPU intervention, enhancing throughput and ensuring reliable communication. The project utilizes **reusable UART and DMA drivers**, adhering to **MISRA-C** standards for reliable, maintainable code. Implemented with **bare metal** and **Embedded C**, this project showcases my ability to design and implement **high-performance communication solutions** for embedded systems, with real-time data exchange visualized using **Putty**.
-
-[**ADXL345 Driver**](https://github.com/JoseLuis-Figueroa/adxl345-driver)
-
-This project demonstrates the development of a **driver for the ADXL345 accelerometer** on the **STM32 Nucleo-F401RE**. It utilizes **reusable drivers** for both **SPI** and **DIO** to efficiently interface with the ADXL345 sensor, enabling the reading of acceleration data across three axes. The driver implementation adheres to industry standards such as **MISRA-C** and is designed to be scalable and reusable across different microcontroller platforms. The project showcases my skills in **low-level hardware interfacing**, sensor integration, and optimizing data communication for embedded systems.
-
-[**Reusable Peripheral Drivers**](https://github.com/JoseLuis-Figueroa/Reusable-Peripheral-Drivers)
-
-This repository showcases **reusable peripheral driver development** and **low-level hardware interaction** for STM32 microcontrollers, demonstrating the type of **firmware solutions** I can deliver as a **freelancer/firmware engineer**. These reusable drivers are designed with **modularity, scalability, and reusability** in mind, allowing them to be updated to support different microcontroller families and vendors. The drivers are built following **best practices** in firmware development and industry standards such as **MISRA-C**.  
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/JoseLuis-Figueroa/UART-DMA-Driver">UART-DMA Driver</a></h3>
+      <p>
+         Demonstrates efficient UART communication using DMA.
+         This implementation enables data transfer between 
+         the UART peripheral and memory buffers while bypassing
+         the CPU for improved performance and efficiency. 
+      </p>
+      <p><strong>Technologies:</strong> Embedded C, DMA, UART, Bare-Metal, MISRA-C, STM32F4.</p>
+      <a href="https://github.com/JoseLuis-Figueroa/UART-DMA-Driver">
+        <img src="https://github.com/JoseLuis-Figueroa/UART-DMA-Driver/blob/main/Documentation/doxygen/images/Output_gif.gif" width="100%" />
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/JoseLuis-Figueroa/adxl345-driver">ADXL345 Driver</a></h3>
+      <p>
+        Implements an SPI-based driver for the ADXL345 accelerometer.
+        Uses reusable SPI and DIO driver to efficiently interface with 
+        the sensor, capturing acceleration data across three axes. 
+      </p>
+      <p><strong><br>Technologies:</strong> Embedded C, SPI, DIO, Bare-Metal, MISRA-C, STM32F4.</p>
+      <a href="https://github.com/JoseLuis-Figueroa/adxl345-driver">
+        <img src=https://github.com/JoseLuis-Figueroa/adxl345-driver/blob/main/Documentation/doxygen/imagens/adxl345_read.png width="100%" alt="ADXL345 Driver"/>
+      </a>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/JoseLuis-Figueroa/Reusable-Peripheral-Drivers">Reusable Peripheral Drivers</a></h3>
+      <p>
+         Demonstrates reusable peripheral driver development, these are 
+         designed with modularity, scalability, and reusability in mind, 
+         allowing them to be updated to support different microcontroller 
+         families and vendors.
+      </p>
+      <p><strong>Technologies:</strong> Embedded C, Peripheral Drivers, Bare-Metal, MISRA-C.</p>
+      <p align="center">
+        <a href="https://github.com/JoseLuis-Figueroa/Reusable-Peripheral-Drivers">
+          <img src="https://github.com/JoseLuis-Figueroa/Reusable-Peripheral-Drivers/blob/main/Documentation/Doxygen/DIO/images/DIO_Implementation.gif" 
+           width="30%" alt="Reusable Peripheral Drivers"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
