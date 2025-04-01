@@ -36,7 +36,7 @@ Beyond firmware development, I have experience in **hardware review**, including
         Uses reusable SPI and DIO driver to efficiently interface with 
         the sensor, capturing acceleration data across three axes. 
       </p>
-      <p><strong><br>Technologies:</strong> Embedded C, SPI, DIO, Bare-Metal, MISRA-C, STM32F4.</p>
+      <p><strong><br><br>Technologies:</strong> Embedded C, SPI, DIO, Bare-Metal, MISRA-C, STM32F4.</p>
       <a href="https://github.com/JoseLuis-Figueroa/adxl345-driver">
         <img src=https://github.com/JoseLuis-Figueroa/adxl345-driver/blob/main/Documentation/doxygen/imagens/adxl345_read.png width="100%" alt="ADXL345 Driver"/>
       </a>
@@ -49,7 +49,7 @@ Beyond firmware development, I have experience in **hardware review**, including
          allowing them to be updated to support different microcontroller 
          families and vendors.
       </p>
-      <p><strong>Technologies:</strong> Embedded C, Peripheral Drivers, Bare-Metal, MISRA-C.</p>
+      <p><strong><br>Technologies:</strong> Embedded C, Peripheral Drivers, Bare-Metal, MISRA-C.</p>
       <p align="center">
         <a href="https://github.com/JoseLuis-Figueroa/Reusable-Peripheral-Drivers">
           <img src="https://github.com/JoseLuis-Figueroa/Reusable-Peripheral-Drivers/blob/main/Documentation/Doxygen/DIO/images/DIO_Implementation.gif" 
@@ -61,6 +61,7 @@ Beyond firmware development, I have experience in **hardware review**, including
 </table>
 
 ---
+
 
 ## Contribution & Collaboration  
 I am open to **new job opportunities**, **freelance opportunities**, and **collaborative projects** in firmware development.  
