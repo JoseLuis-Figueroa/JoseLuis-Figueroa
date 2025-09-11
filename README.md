@@ -2,13 +2,13 @@
 
 ## About Me  
 
-I am a **Firmware Engineer** with expertise in **microcontroller programming, automation test equipment, and hardware debugging**. My work focuses on creating **efficient, scalable, and reusable firmware solutions** for real-world applications.  
+I am a **Embedded Software Engineer** with expertise in **firmware development, automation test equipment, and hardware design**. My work focuses on creating **efficient, scalable, and reusable firmware solutions** for real-world applications.  
 
-This repository serves as my **portfolio**, showcasing my expertise in **embedded software, peripheral driver development, and low-level hardware interaction**. I specialize in firmware development for microcontrollers, including **STM32, ATmega, and ATXmega families**, and have experience with **ARM, RISC-V, and AVR architectures**.  
+This repository serves as my **portfolio**, showcasing my expertise in **embedded software, peripheral driver development, and low-level hardware interaction**. I specialize in firmware development for microcontrollers, including **STM32, NXP MCX, PIC16, ATmega, and ATXmega families**, and have experience with **ARM, and RISC-V architectures**.  
 
 With a strong foundation in **Embedded C, C++, Python, debugging, and testing methodologies**, I am passionate about optimizing performance and ensuring reliability in embedded systems while adhering to **industry-standard coding practices** such as **MISRA-C**.  
 
-Beyond firmware development, I have experience in **hardware review**, including schematics and PCB analysis, as well as hands-on expertise in **automating test equipment** such as oscilloscopes, power supplies, signal generators, etc.  
+Beyond firmware development, I have experience in **hardware desing**, including schematics and PCB layout, as well as hands-on expertise in **automating test equipment** such as oscilloscopes, power supplies, signal generators, etc.  
 
 ---
 
@@ -16,7 +16,7 @@ Beyond firmware development, I have experience in **hardware review**, including
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/JoseLuis-Figueroa/UART-DMA-Driver">UART-DMA Driver</a></h3>
       <p>
          Demonstrates efficient UART communication using DMA.
@@ -29,7 +29,7 @@ Beyond firmware development, I have experience in **hardware review**, including
         <img src="https://github.com/JoseLuis-Figueroa/UART-DMA-Driver/blob/main/Documentation/doxygen/images/Output_gif.gif" width="100%" />
       </a>
     </td>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/JoseLuis-Figueroa/adxl345-driver">ADXL345 Driver</a></h3>
       <p>
         Implements an ADXL345 accelerometer driver. Utilizes reusable,
@@ -38,10 +38,12 @@ Beyond firmware development, I have experience in **hardware review**, including
       </p>
       <p><strong>Technologies:</strong> Embedded C, SPI, DIO, Bare-Metal, MISRA-C, STM32F4.</p>
       <a href="https://github.com/JoseLuis-Figueroa/adxl345-driver">
-        <img src=https://github.com/JoseLuis-Figueroa/adxl345-driver/blob/main/Documentation/doxygen/imagens/adxl345_read.png width="100%" alt="ADXL345 Driver"/>
+        <img src="https://github.com/JoseLuis-Figueroa/adxl345-driver/blob/main/Documentation/doxygen/imagens/adxl345_read.png" width="100%" alt="ADXL345 Driver"/>
       </a>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/JoseLuis-Figueroa/Reusable-Peripheral-Drivers">Reusable Peripheral Drivers</a></h3>
       <p>
          Demonstrates reusable peripheral driver development, these are 
@@ -57,14 +59,28 @@ Beyond firmware development, I have experience in **hardware review**, including
         </a>
       </p>
     </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/JoseLuis-Figueroa/Reusable-Peripheral-Drivers">Reusable Peripheral Drivers</a></h3>
+      <p>
+         Demonstrates reusable GPIO driver with NXP MCX. It is using the 
+         same architecture of the previous projects (STM32) designed with  
+         allowing them to be updated to support different microcontroller 
+         families and vendors.
+      </p>
+      <p><strong>Technologies:</strong> Embedded C, Reusable GPIO Driver, Bare-Metal, MISRA-C, NXP MCX.</p>
+      <p align="center">
+        <a href="https://github.com/JoseLuis-Figueroa/Reusable-Peripheral-Drivers">
+          <img src="https://github.com/JoseLuis-Figueroa/Reusable-Peripheral-Drivers/blob/main/Documentation/Doxygen/DIO/images/DIO_Implementation.gif" 
+    </td>
   </tr>
 </table>
+
 
 ---
 
 
 ## Contribution & Collaboration  
-I am open to **new job opportunities**, **freelance opportunities**, and **collaborative projects** in firmware development. 
+I am open to **new job opportunities**, **freelance opportunities**, and **collaborative projects** in embedded firmware development. 
 If you have a project idea, feel free to **connect with me**:  
 
 🔗 **Freelancer.com:** [JoseLFigueroa](https://www.freelancer.com/u/JoseLFigueroa) 
