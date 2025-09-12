@@ -60,17 +60,17 @@ Beyond firmware development, I have experience in **hardware desing**, including
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/JoseLuis-Figueroa/Reusable-Peripheral-Drivers">Reusable Peripheral Drivers</a></h3>
+      <h3><a href="https://github.com/JoseLuis-Figueroa/FRDM-MCXC444-GPIO-Driver/tree/main">FRDM-MCXC444 GPIO Driver</a></h3>
       <p>
-         Demonstrates reusable GPIO driver with NXP MCX. It is using the 
-         same architecture of the previous projects (STM32) designed with  
-         allowing them to be updated to support different microcontroller 
+         Demonstrates reusable GPIO driver with NXP MCX. This is using  
+         the same architecture of the previous projects of th STM32   
+         allowing it to be updated to support different microcontroller 
          families and vendors.
       </p>
       <p><strong>Technologies:</strong> Embedded C, Reusable GPIO Driver, Bare-Metal, MISRA-C, NXP MCX.</p>
       <p align="center">
-        <a href="https://github.com/JoseLuis-Figueroa/Reusable-Peripheral-Drivers">
-          <img src="https://github.com/JoseLuis-Figueroa/Reusable-Peripheral-Drivers/blob/main/Documentation/Doxygen/DIO/images/DIO_Implementation.gif" 
+        <a href="https://github.com/JoseLuis-Figueroa/FRDM-MCXC444-GPIO-Driver">
+          <img src="https://github.com/JoseLuis-Figueroa/FRDM-MCXC444-GPIO-Driver/blob/main/Documentation/Doxygen/Images/NXP-MCUX.gif" 
     </td>
   </tr>
 </table>
