@@ -83,7 +83,7 @@ Beyond firmware development, I have experience in **hardware desing**, including
 I am open to **new job opportunities**, **freelance opportunities**, and **collaborative projects** in embedded firmware development. 
 If you have a project idea, feel free to **connect with me**:  
 
-🔗 **Freelancer.com:** [JoseLFigueroa](https://www.freelancer.com/u/JoseLFigueroa) 
+🔗 **LinkedIn** [JoseLFigueroa](https://www.linkedin.com/in/josel-figueroa/) 
 
 Let's build innovative and efficient **embedded solutions** together!  
 
