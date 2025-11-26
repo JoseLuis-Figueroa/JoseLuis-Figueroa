@@ -85,8 +85,6 @@ If you have a project idea, feel free to **connect with me**:
 
 🔗 **LinkedIn** [Jose Figueroa](https://www.linkedin.com/in/josel-figueroa/) 
 
-🔗 **Freelancer** [Jose Figueroa](https://www.freelancer.com/u/JoseLFigueroa) 
-
 Let's build innovative and efficient **embedded solutions** together!  
 
 ---
