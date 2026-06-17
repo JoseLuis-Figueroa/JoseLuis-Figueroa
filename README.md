@@ -37,8 +37,8 @@ Beyond firmware development, I have experience in **hardware design**, including
       <p>
          Showcases reusable peripheral driver development using modern
          C++ and template metaprogramming. The drivers leverage compile-time
-         configuration to provide type-safe, efficient, and reusable
-         abstractions for STM32F4 microcontrollers.
+         configuration to provide type-safe, efficient, and abstractions 
+         for STM32F4 microcontrollers.
       </p>
       <p><strong>Technologies:</strong> Embedded C++, GPIO, Bare-Metal, MISRA-C, STM32F4.</p>
       <p align="center">
@@ -54,7 +54,7 @@ Beyond firmware development, I have experience in **hardware design**, including
          Demonstrates a reusable GPIO driver with NXP MCX. The project follows 
          the same reusable architecture used in previous STM32-based   
          implementations, enabling scalability and portability across
-         different microcontroller families and vendors.
+         different microcontroller vendors.
       </p>
       <p><strong>Technologies:</strong> Embedded C, Reusable GPIO Driver, Bare-Metal, MISRA-C, NXP MCX.</p>
       <p align="center">
